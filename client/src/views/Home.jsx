@@ -14,13 +14,13 @@ const Home = (props) => {
 
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img src="homeimages/slideshow2.jpg" class="slideshow" alt="Living Room1" width="1100" height="500" />
+							<img src="../homeimages/slideshow2.jpg" class="slideshow" alt="Living Room1" width="1100" height="500" />
 						</div>
 						<div class="carousel-item">
-							<img src="homeimages/slideshow1.png" class="slideshow" alt="Living Room2" width="1100" height="500" />
+							<img src="../homeimages/slideshow2.jpg" class="slideshow" alt="Living Room2" width="1100" height="500" />
 						</div>
 						<div class="carousel-item">
-							<img src="homeimages/slideshow.jpg" class="slideshow" alt="Living Room3" width="1100" height="500" />
+							<img src="../homeimages/slideshow2.jpg" class="slideshow" alt="Living Room3" width="1100" height="500" />
 						</div>
 					</div>
 
